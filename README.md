@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @RJ-Rodney
+# 👋 Hi, I’m [@RJ-Rodney](https://github.com/RJ-Rodney)
 - 🇺🇸 I reside in the United States
 - 🚰 I work with [Spigot](https://spigotmc.org) plugins
 - 🛠 In general, I work with
